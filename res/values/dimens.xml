@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">50sp</dimen>
+    <dimen name="slime_mergin">12dp</dimen>
+    <dimen name="tree_mergin">6dp</dimen>
+    <dimen name="plant_mergin">1.7dp</dimen>
+    <dimen name="score">36dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="rate_us">17dp</dimen>
+    <dimen name="help_text">9dp</dimen>
+    <dimen name="end_game_your_score">18dp</dimen>
+    <dimen name="end_game_shadow_mergin">1dp</dimen>
+    <dimen name="end_game_score">24dp</dimen>
+    <dimen name="end_game_go">18dp</dimen>
+    <dimen name="end_game_new_best">20dp</dimen>
+</resources>
